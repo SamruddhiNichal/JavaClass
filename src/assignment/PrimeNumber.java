@@ -19,8 +19,6 @@ public class PrimeNumber {
                     break;
                 }
             }
-
-
             if (flag == 0) {
                 System.out.println(num + " is a prime number");
             }
